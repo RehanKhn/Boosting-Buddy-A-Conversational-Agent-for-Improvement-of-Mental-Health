@@ -1,1 +1,1 @@
-# Boosting-Buddy-A-Conventional-Agent-for-Improvement-of-Mental-Health
+# Boosting-Buddy-A-Conversational-Agent-for-Improvement-of-Mental-Health
